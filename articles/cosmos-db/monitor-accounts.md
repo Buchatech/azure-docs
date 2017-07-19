@@ -31,7 +31,7 @@ The Metrics blade opens, and you can select the collection to review. You can re
 ## View performance metrics by using Azure Monitoring
 1. In the [Azure portal](https://portal.azure.com/), click **Monitor** on the Jumpbar.
 2. In the resource menu, click **Metrics**.
-3. In the **Monitor - Metrics** window, in the **esource group** drop-down menu, select the resource group associated with the Azure Cosmos DB account that you'd like to monitor. 
+3. In the **Monitor - Metrics** window, in the **resource group** drop-down menu, select the resource group associated with the Azure Cosmos DB account that you'd like to monitor. 
 4. In the **Resource** drop-down menu, select the database account to monitor.
 5. In the list of **Available metrics**, select the metrics to display. Use the CTRL button to multi-select. 
 
